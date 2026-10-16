@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721356999620",
+    "project_id": "com-example-zerotrust-caf5a",
+    "storage_bucket": "com-example-zerotrust-caf5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721356999620:android:7f4855484cb53f3da63291",
+        "android_client_info": {
+          "package_name": "com.example.zerotrust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChNCAlyLdc46pEFcfv4HyQljCAWEk22L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
